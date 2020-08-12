@@ -21,4 +21,7 @@ Este proyecto está en versión beta. Consideramos que el contenido va antes de 
 - [Llamadas realizadas a Línea Mujeres](https://datos.cdmx.gob.mx/explore/dataset/linea-mujeres/table/), Fecha de última actualización: 3 de abril de 2020
 - [Víctimas en carpetas de investigación FGJ](https://datos.cdmx.gob.mx/explore/dataset/victimas-en-carpetas-de-investigacion-pgj/table/), Fecha de última actualización: 21 de julio de 2020. 
 
+#### Veracruz
 
+- [Datos de Línea Violeta - Instituto Municipal de las Mujeres de Xalapa](https://drive.google.com/file/d/1CU1SmvqLw8v2QCxHGu-h2b1HSJRUyxfy/view), Fecha de última actualización: 30 de junio de 2020
+- [Datos del Departamento de Atención a Violencia - Instituto Municipal de las Mujeres de Xalapa](https://drive.google.com/file/d/1j4YCF1MrkCxQPalav8L91t4OxH332A0S/view), Fecha de última actualización: 30 de junio de 2020
