@@ -25,3 +25,7 @@ Este proyecto está en versión beta. Consideramos que el contenido va antes de 
 
 - [Datos de Línea Violeta - Instituto Municipal de las Mujeres de Xalapa](https://drive.google.com/file/d/1CU1SmvqLw8v2QCxHGu-h2b1HSJRUyxfy/view), Fecha de última actualización: 30 de junio de 2020
 - [Datos del Departamento de Atención a Violencia - Instituto Municipal de las Mujeres de Xalapa](https://drive.google.com/file/d/1j4YCF1MrkCxQPalav8L91t4OxH332A0S/view), Fecha de última actualización: 30 de junio de 2020
+
+#### Puebla
+
+- [Atención de Violencia de Género - Municipio de Puebla](https://datos.pueblacapital.gob.mx/dataset/atenci%C3%B3n-de-violencia-de-g%C3%A9nero), Fecha de última actualización: 04 de julio de 2020
