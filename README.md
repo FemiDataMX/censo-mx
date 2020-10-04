@@ -29,3 +29,7 @@ Este proyecto está en versión beta. Consideramos que el contenido va antes de 
 #### Puebla
 
 - [Atención de Violencia de Género - Municipio de Puebla](https://datos.pueblacapital.gob.mx/dataset/atenci%C3%B3n-de-violencia-de-g%C3%A9nero), Fecha de última actualización: 04 de julio de 2020
+
+#### Jalisco
+
+- [Incidencia delictiva - IIEG Jalisco](https://iieg.gob.mx/ns/?page_id=1958), Fecha de última actualización: agosto 2020
