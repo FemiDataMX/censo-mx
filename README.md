@@ -33,3 +33,4 @@ Este proyecto está en versión beta. Consideramos que el contenido va antes de 
 #### Jalisco
 
 - [Incidencia delictiva - IIEG Jalisco](https://iieg.gob.mx/ns/?page_id=1958), Fecha de última actualización: agosto 2020
+- [Victimización en Jalisco - IIEG Jalisco](https://iieg.gob.mx/ns/?page_id=1968), Fecha de última actualización: agosto 2020
